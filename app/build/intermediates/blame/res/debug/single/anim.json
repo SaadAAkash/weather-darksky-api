@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

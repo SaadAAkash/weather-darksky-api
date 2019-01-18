@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

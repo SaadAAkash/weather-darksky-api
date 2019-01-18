@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/res/layout-v21/notification_action.xml"
+    }
+]

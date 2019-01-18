@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2234a23363ace289385313668eed4e8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8e6d02e0f7352f47d5f375642588030c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/662db0c2e707c97a0402400ce3088079/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7c100a80bda8d2fdd81d89dd165cd9dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9cb801b0b3b3efc0c27a44b8d1b883fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d59e8bef2a35d59f62d47190d4e73cb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a0ff1156af0313a224f0d3902672fb0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7c30f820364b693fcca84ab2a595a1a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9682b7fe8c60c18c5f8dbb62b242404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/87ae08273261da6475ed72cebf5cc01e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/905d0e14680d467a482fa4e032807334/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:6:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:8:19-63
+application
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2234a23363ace289385313668eed4e8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2234a23363ace289385313668eed4e8/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.saad.weatherwizard.view.activities.MainActivity
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:18:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+MERGED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/9255fd6a82b22e31be8c83eea3211a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/107ea744207759870fd8f157cc0a1e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2234a23363ace289385313668eed4e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2234a23363ace289385313668eed4e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8e6d02e0f7352f47d5f375642588030c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8e6d02e0f7352f47d5f375642588030c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/662db0c2e707c97a0402400ce3088079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/662db0c2e707c97a0402400ce3088079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7c100a80bda8d2fdd81d89dd165cd9dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7c100a80bda8d2fdd81d89dd165cd9dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9cb801b0b3b3efc0c27a44b8d1b883fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9cb801b0b3b3efc0c27a44b8d1b883fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d59e8bef2a35d59f62d47190d4e73cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d59e8bef2a35d59f62d47190d4e73cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a0ff1156af0313a224f0d3902672fb0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a0ff1156af0313a224f0d3902672fb0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7c30f820364b693fcca84ab2a595a1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7c30f820364b693fcca84ab2a595a1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9682b7fe8c60c18c5f8dbb62b242404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9682b7fe8c60c18c5f8dbb62b242404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/87ae08273261da6475ed72cebf5cc01e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/87ae08273261da6475ed72cebf5cc01e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8d0430d2965f5945f0b222c72de317e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/905d0e14680d467a482fa4e032807334/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/905d0e14680d467a482fa4e032807334/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:4.2.0] /home/asus/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/f5c4209042f95feeb6f97a165f0beb6d/AndroidManifest.xml:28:13-60

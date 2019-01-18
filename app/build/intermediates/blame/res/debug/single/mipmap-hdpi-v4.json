@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "source": "/home/asus/Documents/AndroidStudionPrjcts/BS23/weather-darksky-api/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
