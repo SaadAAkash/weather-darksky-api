@@ -29,7 +29,9 @@ class UserInterface(private val context: Context) {
 
     fun initialize() {
         Log.d(TAG_C_INTERFACE, "initialize() is executed.")
+
         startSwipeRefresh()
+
         LocationServices(context).locationPermission()
 
         swipeRefreshLayout.setOnRefreshListener {
