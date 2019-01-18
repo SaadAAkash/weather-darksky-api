@@ -17,7 +17,6 @@ Weather Wiz: An android app using RESTful weather API (DarkSky)
 
 ## Development Resources Used
 
-
 ### Implementation & Coding
 
 Since the given time was only les than 24 hours and open source codes were allowed, I took help from these resources to shape up the entire app as fast as possible.
@@ -34,10 +33,6 @@ Since the given time was only les than 24 hours and open source codes were allow
 ### Install the apk
 
 Head over to ```Releases``` in the repo and download the apk file from the latest release.
-
-## App Screenshots
-
-![App](https://github.com/SaadAAkash/weather-darksky-api/blob/master/weather-darksky-apiResources/Screenshots/1.png "weather-darksky-api")
 
 ## Contributing
 
