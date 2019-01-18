@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Wizard</string>
+    <string name="powered_by_dark_sky">Powered by Dark Sky</string>
+    <string name="day_today">Today</string>
+    <string name="switch_daily">Daily</string>
+    <string name="switch_hourly">Hourly</string>
+</resources>
