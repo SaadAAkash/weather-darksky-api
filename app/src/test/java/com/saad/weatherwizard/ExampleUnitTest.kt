@@ -1,4 +1,4 @@
-package saad.ninja.weatherwizard
+package com.saad.weatherwizard
 
 import org.junit.Test
 
